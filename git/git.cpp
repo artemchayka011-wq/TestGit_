@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     cout  << "test git class {step 1}" << endl;
     cout <<  "test git class {step 1}" << endl;
+    cout << "test git home {step 3}" << endl;
 
 
 }
